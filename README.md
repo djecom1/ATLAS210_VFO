@@ -7,4 +7,4 @@ Projet testé par F1OLG et débugué par F4GMU
 
 Source original : [CesarSound](https://projecthub.arduino.cc/CesarSound/3bd1c1cc-1971-41e9-890e-0451c35720e0)
 
-![Alt text](https://github.com/djecom1/IATLAS210_VFO/Oled.jpg "Oled")
+![Alt text](https://github.com/djecom1/ATLAS210_VFO/blob/main/Oled.jpg "Oled")
